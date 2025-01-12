@@ -1,0 +1,21 @@
+Personal-Finance-Tracker/
+├── Server/
+│   ├── app.py
+│   ├── database.py
+│   ├── finance_tracker.db
+│   └── server.js
+├── client-app/
+│   ├── public/
+│   │   ├── index.html
+│   │   └── logo192.png
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Dashboard.js
+│   │   │   ├── ExpenseIncomeForm.js
+│   │   │   └── CategoryDropdown.js
+│   │   └── App.js
+│   └── package.json
+├── package-lock.json
+├── package.json
+├── .gitignore
+└── README.md
