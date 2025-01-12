@@ -1,0 +1,15 @@
+/* Import Tailwind CSS styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles (optional) */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9fafb;
+  color: #333;
+}
+
+h1, h2, h3, h4 {
+  color: #1f2937;
+}
